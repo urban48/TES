@@ -25,5 +25,3 @@ supports
 
 `Tampermonkey (Chrome) <https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en>`_
 
-.. image:: https://dl.dropboxusercontent.com/u/29482107/gm/TLE/tle_example.PNG
-
