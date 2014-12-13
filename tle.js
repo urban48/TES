@@ -20,7 +20,8 @@
 // ==UserScript==
 // @name        TorrentLeech Enhancer
 // @author      Urban48
-// @namespace   http://userscripts.org/scripts/show/150341
+// @namespace   https://github.com/urban48/TES/blob/master/tle.js
+// @source      https://github.com/urban48/TES
 // @description Enhance TorrentLeech
 // @include  http://www.torrentleech.org/torrents/*
 // @include  http://torrentleech.org/torrents/*
@@ -37,7 +38,8 @@
 // @license GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // @contributor Lara Korik (http://www.larakorik.com)
 // @contributor Cybias (CBSP)
-// @version     0.2.3
+// @contributor Sandbird
+// @version     0.2.4
 // ==/UserScript==
 
 //change_log
@@ -56,10 +58,12 @@
 //added few more words to the ignore list
 //version 0.2.3
 //added another include to cover all possible urls, as suggested in one of the reviews..
+//version 0.2.4
+//include IMDB rating for movies by Sandbird
 
 //TODO
 //-fix the category retrival method
-//-add the year to the query for omdb
+//-add the year to the query for imdb
 
 
 
