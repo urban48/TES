@@ -32,6 +32,7 @@
 // @resource episodes_btn http://dl.dropbox.com/u/29482107/gm/TLE/episodes.png
 // @resource episodesRl_btn http://dl.dropbox.com/u/29482107/gm/TLE/episodes_rollover.png
 // @grant  GM_getResourceURL
+// @grant         GM_xmlhttpRequest
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
 // @require       http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js
 // @license GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
